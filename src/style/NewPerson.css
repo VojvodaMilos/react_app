@@ -1,0 +1,15 @@
+.form input {
+  margin: 5px;
+  padding: 5px;
+  width: 300px;
+  text-align: center;
+  font-size: 18px;
+}
+.form button {
+  background-color: aquamarine;
+  margin: 5px;
+  padding: 5px;
+  width: 314px;
+  text-align: center;
+  font-size: 18px;
+}
